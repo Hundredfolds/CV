@@ -1,55 +1,57 @@
-## Your Name
+## Edward Phillips
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a junior developer currently studying at the Maker's Academy. After studying Aerospace engineering I spent 3 years working for a medtech startup, 1 year in customer support and 2 in the finance department. 
+I am looking for a role where I can cut my teeth on a project which will test and grow my new skills as a developer.
 
-## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+## Quick Learner
 
-#### This Skill
+I managed to earn a lateral promotion to the finance department after working in customer support by learning the accounting software (sage 50/200) in my own time and learning excel. 
+Later I built file conversion templates to allow our payments to be imported into our banking system directly from our accounting system.
 
-- Experience
-- Achievements
-- Evidence
+### People Person
+Spending a year working in Customer Support allowed me to develop my communication skills by having to discuss sensitive medical conditions with patients and forced me to consider problems from different perspectives, to ensure I'm solving the problem the patient's calling about, not just the one that I'd found.
 
-#### Another Skill
+### Process Builder
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+When working in Customer Support I became responsible for writing out process charts and SOPs for the different situations that could typically arise in a call. 
+I joined the finance department following the departure of our management accountant with little experience and the expectation to close the books each month in 2 weeks. I built a gantt chart that tracked the dependencies of tasks and gave clear feedback in which areas where taking longer than expected. The end result was a process that took 3 working days les to close the accounts.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2020 to present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol [(start_date to end_date)]
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Aerospace Engineering, specialising in Advanced Structures and Materials, Optimisation Theory and Applications, Adhesives.
+- 3rd class
+- participated in 2 ARM hackathons
+  - built a blimp
+  - built a sound-based 'anti-sniper'
+ 
+### Highgate School
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels: Maths (A) Physics (A) Further Maths (B) Chemistry (B)
+- GCSEs: 6A*,4 As.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Zavamed** (Feb 2017 to Jan 2020)    
+*Customer Support Advisor*  (Feb'17 - Jun'17)
+*Senior Customer Support Advisor* (Jun'17 - Mar'18)
+*Accounts Assistant* (Mar'18 - Jan'20)
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Brewhouse Bar and Kitchen** (Dec'16 to feb'17)   
+*Front of house staff*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I'm an origami enthusiast, you can see some of my work on instagram @cruddy_origami if you'd like.
+I'm also an avid fan of science fiction, particularly the works of Philip k. Dick and Kurt Vonnegut.
+I can also solve a 3x3 rubik's cube reasonably slowly.
