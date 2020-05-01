@@ -26,7 +26,7 @@ I joined the finance department following the departure of our management accoun
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol [(start_date to end_date)]
+#### University of Bristol [2012 - 2016)]
 
 - Aerospace Engineering, specialising in Advanced Structures and Materials, Optimisation Theory and Applications, Adhesives.
 - 3rd class
@@ -52,6 +52,6 @@ I joined the finance department following the departure of our management accoun
 
 ## Hobbies
 
-I'm an origami enthusiast, you can see some of my work on instagram @cruddy_origami if you'd like.
+I'm an origami enthusiast, you can see some of my work on instagram @cruddy_origami.
 I'm also an avid fan of science fiction, particularly the works of Philip k. Dick and Kurt Vonnegut.
-I can also solve a 3x3 rubik's cube reasonably slowly.
+I can also solve a 3x3 rubik's cube reasonably quickly (under 2 minutes, more than 1).
