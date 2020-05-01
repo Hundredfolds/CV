@@ -26,7 +26,7 @@ I joined the finance department following the departure of our management accoun
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol [2012 - 2016)]
+#### University of Bristol [2012 - 2016]
 
 - Aerospace Engineering, specialising in Advanced Structures and Materials, Optimisation Theory and Applications, Adhesives.
 - 3rd class
