@@ -1,8 +1,6 @@
 ## Edward Phillips
 
-I'm a junior developer currently studying at the Maker's Academy. After studying Aerospace engineering I spent 3 years working for a medtech startup, 1 year in customer support and 2 in the finance department. 
-I am looking for a role where I can cut my teeth on a project which will test and grow my new skills as a developer.
-
+I'm a former accountant turned developer, coming from a background in online healthcare following a degree in aerospace engineering. I'm eager to start working in a role where I can cut my teeth on a project which will test and grow my skills as a developer
 
 ## Quick Learner
 
@@ -21,10 +19,17 @@ I joined the finance department following the departure of our management accoun
 
 #### Makers Academy (Feb 2020 to present)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object Oriented Programming
+- Test Driven Development
+- Behaviour Driven Development
+- Agile workflow / XP values
+- Ruby, Sinatra, Rails, JavaScript
+- RSpec, Capybara, Jasmine
+- git workflow
+- code review
+- Travis CI/CD
+- Heroku deployment
+- Surge deployment
 
 #### University of Bristol [2012 - 2016]
 
