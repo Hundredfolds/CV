@@ -8,7 +8,8 @@ I'm a former accountant turned developer, coming from a background in online hea
 
 |Project|TimeFrame|Description|Technologies|
 |:-------|:---------:|------------:|------:|
-|[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|A realtime messaging platform for developers to discuss what they're blocked on.| NodeJs, Express, React, MongoDB, Socket.io, Jest, React Testing Library|
+|[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|A realtime messaging platform for developers to discuss what they're blocked on.| NodeJs, Express, React, MongoDB, Socket<span></span>.io, Jest, React Testing Library|
+|[Guardian News Summary](https://github.com/Edward-Phillips/news-summary-challenge)|2 days| A dashboard showing the 10 most recent news stories on the Guardian using the Guardian API| Vanilla Javascript, CSS & HTML|
 |[Object Oriented Banking](https://github.com/Edward-Phillips/bank_tech_test_ruby)|1 week|an example of writing an object oriented program to allow the user to make deposits and withdrawals and print their statement|Ruby, Rspec|
 
 # Skills
