@@ -1,6 +1,6 @@
 ## Edward Phillips
 
-I'm a former accountant turned developer, coming from a background in online healthcare following a degree in aerospace engineering. I'm eager to start working in a role where I can cut my teeth in a team which will test and grow my skills as a developer.
+An Aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the Makers Academy 12 week course I'm eager to start working on a project which makes people's lives easier and lets me demonstrate the value I can bring to the team.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
@@ -8,14 +8,14 @@ I'm a former accountant turned developer, coming from a background in online hea
 
 |Project|TimeFrame|Description|Technologies|
 |:-------|:---------:|------------:|------:|
-|[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|A realtime messaging platform for developers to discuss what they're blocked on.| NodeJs, Express, React, MongoDB, Socket<span></span>.io, Jest, React Testing Library|
+|[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|A realtime messaging platform for developers to discuss what they're blocked on.| NodeJs, Express, React, MongoDB, Socket<span></span>.io, Jest, React Testing Library, Sketch, Zeplin|
 |[Guardian News Summary](https://github.com/Edward-Phillips/news-summary-challenge)|2 days| A dashboard showing the 10 most recent news stories on the Guardian using the Guardian API| Vanilla Javascript, CSS & HTML|
 |[Object Oriented Banking](https://github.com/Edward-Phillips/bank_tech_test_ruby)|1 week|an example of writing an object oriented program to allow the user to make deposits and withdrawals and print their statement|Ruby, Rspec|
 
 # Skills
 
 ### Quick Learner
-I earned a lateral promotion to the Finance department after working in Customer Support by learning the accounting software (sage 50/200) in my own time and mastering excel. 
+I earned a promotion to the Finance department after working in Customer Support by learning the accounting software (sage 50/200) in my own time and mastering excel. 
 During my time in the Finance team I built file conversion templates in excel to allow our payments to be imported into our banking system directly from our accounting system, which turned a weekly task that took a day for 3 team members to complete to an hour of work for one person. At Makers I learned how to use the MERN stack for the first time in my final project, [WhatStack](#projects), a realtime messaging platform for developers.
 
 ### User-Centric Problem Solver
