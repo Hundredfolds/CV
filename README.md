@@ -1,6 +1,6 @@
 ## Edward Phillips
 
-An Aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the Makers Academy 12 week course I'm eager to start working on a project which makes people's lives easier and lets me demonstrate the value I can bring to the team.
+An Aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the Makers Academy 12 week course I'm eager to start working on a project which can make a difference and lets me demonstrate the value I can bring to the team.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
@@ -57,16 +57,16 @@ While working in a startup I frequently took on other work from across the compa
 
 ### **Zavamed** (Feb 2017 to Jan 2020)    
 
-*Customer Support Advisor*  (Feb'17 to Jun'17)
+*Customer Support Advisor*  (Feb 2017 to Jun 2017)
 - working in customer support really grew my communication skills while working under pressure, at times I would be liaising with a doctor, 4-5 different pharmacies and the patient in the space of as little as 10 minutes in order to secure emergency medication for the patient.
 
-*Senior Customer Support Advisor* (Jun'17 to Mar'18)
+*Senior Customer Support Advisor* (Jun 2017 to Mar 2018)
 - A new role was created to recognise the expertise I had developed in customer communication and problem resolution, this lead to me becoming responsible for the onboarding training of new team members.
 
-*Accounts Assistant* (Mar'18 to Jan'20)
+*Accounts Assistant* (Mar 2018 to Jan 2020)
 - Working in the finance team allowed me to understand how the company functioned and also taught me the importance of OKRs as I became responsible for planning and tracking the finance teams OKRs for more than a year and a half, from this I recognised the value that having a metric delivers and how important it is to connect the work you do on a day to day basis not only to your team goals but also the wider goals and mission of the company.
 
-### **Brewhouse Bar and Kitchen** (Dec'16 to feb'17)   
+### **Brewhouse Bar and Kitchen** (Dec 2016 to Feb 2017)   
 *Front of house staff*  
 - Working in hospitality was a great opportunity to work on my communication skills, always doing my best to ensure that the clientele were satisfied with the service that they were experiencing and working to resolve any issues that might come up
 
