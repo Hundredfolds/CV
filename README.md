@@ -12,6 +12,14 @@ An aerospace engineer turned accountant turned developer, coming from a backgrou
 |[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|An open realtime messaging platform for developers to share what they're blocked on and offer ideas and suggestions to others.| NodeJs, Express, React, MongoDB, Socket<span></span>.io, Jest, React Testing Library, Sketch, Zeplin|
 |[Object Oriented Banking](https://github.com/Edward-Phillips/bank_tech_test_ruby)|1 week|An example of writing an object oriented program to allow the user to make deposits and withdrawals and print their statement|Ruby, Rspec|
 
+# Review
+
+Want to see how I work? The table below has links to recorded programming sessions where I go in blind, talk to a 'client' to determine what the specifications of the program they want and test drive a solution to meet those specifications.
+
+|Problem|Video recording|Topline Performance Summary from reviewer|Detailed Analysis|
+|:-------|---------------|:---------------------------|:-----------------|
+| build a band-pass filter|https://www.youtube.com/watch?v=lbKxIYH5MCc|Feedback: Thanks for a great review - you are nice and steady across all the course goals, well done and keep it up!|[Click here to view a PDF with detailed performance analysis](./Review-Feedback.pdf)|
+
 # Skills
 
 
