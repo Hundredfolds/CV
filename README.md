@@ -25,13 +25,13 @@ Want to see how I work? The table below has links to recorded programming sessio
 
 ### Quick Learner
 I earned a promotion to the Finance department after working in Customer Support by learning the accounting software (sage 50/200) in my own time and mastering excel. 
-During my time in the Finance team I built file conversion templates in excel to allow our payments to be imported into our banking system directly from our accounting system, which turned a weekly task that took a day for 3 team members to complete to an hour of work for one person. At Makers I learned the value in choosing the right tools for the job, from appreciating the power of the basics in building a [news summary dashboard](#projects) using just simple HTML, CSS and Javascript, to how to use the MERN stack for the first time in my final project, [WhatStack](#projects), a realtime messaging platform for developers.
+During my time in the Finance team I built file conversion templates in excel to allow our payments to be imported into our banking system directly from our accounting system, which turned a weekly task that took 3 team members to complete to an hour of work for one person. At Makers I learned the value in choosing the right tools for the job, from appreciating the power of the basics in building a [news summary dashboard](#projects) using just simple HTML, CSS and Javascript, to how to use the MERN stack for the first time in my final project, [WhatStack](#projects), a realtime messaging platform for developers.
 
 ### User-Centric Problem Solver
 Spending a year working in Customer Support allowed me to develop my communication skills by having to discuss sensitive medical conditions with patients, and forced me to develop the empathy necessary to consider problems from different perspectives, not just that of the patient but also the doctor and the pharmacist. This ensured I solved the right problem the right way, not necessarily just the initial ailment the patient had contacted us about.
 
 ### Team Player
-While working in a startup I frequently took on other work from across the company, ranging from: building customer growth models for the marketing team; optimizing the packaging process for the in-house pharmacy; and structuring spreadsheets so that google form responses were displayed in a meaningful to the user whilst also restricting permissions for compliance reasons [e.g. preventing the end user from viewing the raw data]. Being a natural, empathetic team player also made embedding financial controls and safeguards easier, as I was able to take into account differing objectives and perspectives across teams when creating and implementing solutions.  
+While working in a startup I frequently took on other work from across the company, ranging from: building customer growth models for the marketing team; optimizing the packaging process for the in-house pharmacy; and structuring spreadsheets so that google form responses were displayed in a meaningful to the user whilst also restricting permissions for compliance reasons [e.g. preventing the end user from viewing the raw data].
 
 ## Education
 
