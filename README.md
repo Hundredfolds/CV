@@ -2,14 +2,13 @@
 
 An aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the [Makers Academy](https://makers.tech/) 12 week developer bootcamp, I'm eager to work in a team where I can support and learn from more senior client-side developers.  I would also like to be part of, and contribute to the success of, an organisation whose overarching aim to make a positive impact to society.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+->[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)<-
 
 # Projects
 
 |Project|Time Frame|Description|Technologies|
 |:-------|:---------:|------------:|------:|
 |[PlantStock](https://github.com/Edward-Phillips/plantStock)|Ongoing| A stock management system for plant cuttings|NodeJs, Express, Mocha, Supertest, coveralls, Travis, PostgresQL|
-|[Chess](https://github.com/Edward-Phillips/chess)|Ongoing|TDD'ing chess| Vanilla Javascript, Jasmine, CSS & HTML|
 |[WhatStack](https://github.com/FayeCarter/WhatStack)|2 weeks|An open realtime messaging platform for developers to share what they're blocked on and offer ideas and suggestions to others.| NodeJs, Express, React, MongoDB, Socket<span></span>.io, Jest, React Testing Library, Sketch, Zeplin|
 |[Guardian News Summary](https://github.com/Edward-Phillips/news-summary-challenge)|2 days| A dashboard showing the 10 most recent news stories on the Guardian using the Guardian API| Vanilla Javascript, CSS & HTML|
 |[Object Oriented Banking](https://github.com/Edward-Phillips/bank_tech_test_ruby)|1 week|An example of writing an object oriented program to allow the user to make deposits and withdrawals and print their statement|Ruby, Rspec|
