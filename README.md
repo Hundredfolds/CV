@@ -1,8 +1,8 @@
 ## Edward Phillips
 
-An aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the [Makers Academy](https://makers.tech/) 12 week developer bootcamp, I'm eager to work in a team where I can support and learn from more senior developers.  I would also like to be part of, and contribute to the success of, an organisation whose overarching aim to make a positive impact to society.
+An aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the [Makers Academy](https://makers.tech/) 12 week developer bootcamp, I'm eager to work in a team where I can support and learn from more senior developers.  I would also like to be part of, and contribute to the success of, an organisation whose overarching aim is to make a positive impact to society.
 
-->[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)<-
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 # Projects
 
@@ -19,7 +19,7 @@ Want to see how I work? The table below has links to recorded programming sessio
 
 |Problem|Video recording|Topline Performance Summary from reviewer|Detailed Analysis|
 |:-------|---------------|:---------------------------|:-----------------|
-| build a band-pass filter|https://www.youtube.com/watch?v=lbKxIYH5MCc|Feedback: Thanks for a great review - you are nice and steady across all the course goals, well done and keep it up!|[Click here to view a PDF with detailed performance analysis](./Review-Feedback.pdf)|
+| build a band-pass filter|https://www.youtube.com/watch?v=lbKxIYH5MCc|Feedback: Thanks for a great review - you are nice and steady across all the course goals, well done and keep it up!|[Click here to view a PDF with detailed performance analysis](https://github.com/Edward-Phillips/CV/blob/master/Review-Feedback.pdf)|
 
 # Skills
 
@@ -34,22 +34,10 @@ Spending a year working in Customer Support allowed me to develop my communicati
 ### Team Player
 While working in a startup I frequently took on other work from across the company, ranging from: building customer growth models for the marketing team; optimizing the packaging process for the in-house pharmacy; and structuring spreadsheets so that google form responses were displayed in a meaningful to the user whilst also restricting permissions for compliance reasons [e.g. preventing the end user from viewing the raw data].
 
-## Education
-
-
-### University of Bristol (2012 to 2016)
-
-- Aerospace Engineering, specialising in Advanced Structures and Materials, Optimisation Theory and Applications, Adhesives.
-- participated in 2 hackathons sponsored by ARM
-  - built a blimp
-  - built a sound-based 'anti-sniper'
- 
-### Highgate School
-
-- A Levels: Maths (A) Physics (A) Further Maths (B) Chemistry (B)
-- GCSEs: 6A*,4 As.
 
 ## Experience
+
+### 
 
 ### [Makers Academy](https://makers.tech/) (Feb 2020 to Jun 2020)
 
@@ -80,7 +68,21 @@ While working in a startup I frequently took on other work from across the compa
 *Front of house staff*  
 - Working in hospitality was a great opportunity to work on my communication skills. I prided myself on always doing my best to ensure that the clientele were satisfied with the service that they were experiencing and working to resolve any issues that may arise.
 
+## Education
+
+### University of Bristol (2012 to 2016)
+
+- Aerospace Engineering, specialising in Advanced Structures and Materials, Optimisation Theory and Applications, Adhesives.
+- participated in 2 hackathons sponsored by ARM
+  - built a blimp
+  - built a sound-based 'anti-sniper'
+ 
+### Highgate School
+
+- A Levels: Maths (A) Physics (A) Further Maths (B) Chemistry (B)
+- GCSEs: 6A*,4 As.
+
 # Hobbies
 I am an origami enthusiast, inspired largely by the work of Eric Joisel.
 I'm also an avid fan of science fiction, particularly the works of Philip K. Dick and Kurt Vonnegut.
-I can solve a 3x3 rubik's cube reasonably quickly (average under 2 minutes). I am also currently volunteering to help build an open digital platform for community crafters to share ideas and experiences, focussing on upcycling materials and crafts which can contribute to the public good.
+I can solve a 3x3 rubik's cube reasonably quickly (average under 2 minutes).
