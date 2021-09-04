@@ -1,6 +1,8 @@
 ## Edward Phillips
 
-An aerospace engineer turned accountant turned developer, coming from a background in online healthcare. Having recently completed the [Makers Academy](https://makers.tech/) 12 week developer bootcamp, I'm eager to work in a team where I can support and learn from more senior developers.  I would also like to be part of, and contribute to the success of, an organisation whose overarching aim is to make a positive impact to society.
+I am a junior developer, looking for new opportunities to continue to grow my skills and knowledge while working with good people building great products.
+
+I learned to code at the Makers Academy, a london based bootcamp, which has led me to my current role, working at [Twine](https://twine.net/) as a junior fullstack developer.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
@@ -25,20 +27,29 @@ Want to see how I work? The table below has links to recorded programming sessio
 
 
 ### Quick Learner
-I earned a promotion to the Finance department after working in Customer Support by learning the accounting software (sage 50/200) in my own time and mastering excel. 
-During my time in the Finance team I built file conversion templates in excel to allow our payments to be imported into our banking system directly from our accounting system, which turned a weekly task that took 3 team members to complete to an hour of work for one person. At Makers I learned the value in choosing the right tools for the job, from appreciating the power of the basics in building a [news summary dashboard](#projects) using just simple HTML, CSS and Javascript, to how to use the MERN stack for the first time in my final project, [WhatStack](#projects), a realtime messaging platform for developers.
+At Makers I learned the value in choosing the right tools for the job, from appreciating the power of the basics in building a [news summary dashboard](#projects) using just simple HTML, CSS and Javascript, to how to use the MERN stack for the first time in my final project, [WhatStack](#projects), a realtime messaging platform for developers. More recently, following a devops issue in our cloud environment, I have gained experience with AWS and have acquired the Cloud Practitioner certification with plans to take the associate solutions architect certification in the near future. 
 
 ### User-Centric Problem Solver
-Spending a year working in Customer Support allowed me to develop my communication skills by having to discuss sensitive medical conditions with patients, and forced me to develop the empathy necessary to consider problems from different perspectives, not just that of the patient but also the doctor and the pharmacist. This ensured I solved the right problem the right way, not necessarily just the initial ailment the patient had contacted us about.
+At Twine when working on a ticket I ensure that I understand the user story behind the work, so that I can work on a solution that meets the acceptance criteria of the ticket while also being confident that the user story has been fully satisfied.
 
 ### Team Player
-While working in a startup I frequently took on other work from across the company, ranging from: building customer growth models for the marketing team; optimizing the packaging process for the in-house pharmacy; and structuring spreadsheets so that google form responses were displayed in a meaningful to the user whilst also restricting permissions for compliance reasons [e.g. preventing the end user from viewing the raw data].
+While working in a startup I frequently took on other work from across the company, ranging from: building customer growth models for the marketing team; optimizing the packaging process for the in-house pharmacy; and structuring spreadsheets so that google form responses were displayed in a meaningful to the user whilst also restricting access to certain data for compliance reasons.
 
 
 ## Experience
 
-### 
-
+### [Twine](https://twine.net) (Nov 2020 to Present)
+ - PHP
+   - Laravel Framework
+   - Oauth integrations such as Google SSO & Oauth integrations with partner APIs
+ - React
+    - Redux
+    -  both Class & Functional Components
+ - AWS
+    - Cloudformation deployment using AWS CLI & php cloud-manager wrapper
+    - Cloudfront caching policies & behaviours
+    - EC2 AMI creation & instance scaling
+ 
 ### [Makers Academy](https://makers.tech/) (Feb 2020 to Jun 2020)
 
 - HTML, CSS, Figma
@@ -69,6 +80,11 @@ While working in a startup I frequently took on other work from across the compa
 - Working in hospitality was a great opportunity to work on my communication skills. I prided myself on always doing my best to ensure that the clientele were satisfied with the service that they were experiencing and working to resolve any issues that may arise.
 
 ## Education
+
+
+### AWS Certifications
+
+ - Cloud Practitioner (Aug 2020)
 
 ### University of Bristol (2012 to 2016)
 
